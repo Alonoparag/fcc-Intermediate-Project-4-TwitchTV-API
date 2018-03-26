@@ -1,0 +1,45 @@
+body {
+  background: linear-gradient(135deg, rgba(71, 114, 22, 0.9) 0%, rgba(167, 206, 152, 0.9) 37%, rgba(183, 221, 173, 0.88) 43%, rgba(136, 192, 221, 0.7) 89%, rgba(125, 185, 232, 0.7) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6477216', endColorstr='#b37db9e8', GradientType=1);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 25px;
+}
+
+#header {
+  margin: 20px 50px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+img {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 50px;
+}
+
+.container {}
+
+.row {
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 25px;
+}
+
+.logo {}
+
+.name {}
+
+.link {
+  color: blue;
+}
+
+.link:hover {
+  color: blue;
+}
+
+.link:visited {
+  color: blue;
+}
+
+.status {}
